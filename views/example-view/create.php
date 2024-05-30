@@ -1,7 +1,3 @@
-<?php 
-  require '../../app/controllers/Controller.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  <form action="<?=$app_name?>/app/controllers/PortofolioController.php?action=create" method="POST" enctype="multipart/form-data">
+  <form action="" method="POST" enctype="multipart/form-data">
     <input type="text">
     <button type="submit">Submit</button>
   </form>

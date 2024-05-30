@@ -1,7 +1,3 @@
-<?php 
-  require '../../app/controllers/Controller.php';
-  $data = Controller::detail($_GET['id']);
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +6,8 @@
   <title>Document</title>
 </head>
 <body>
-  <form action="<?=$app_name?>/app/controllers/PortofolioController.php?action=update&id=<?=$_GET['id']?>" method="POST" enctype="multipart/form-data">
-    <input type="text" value="<?= $data ?>">
+  <form action="" method="POST" enctype="multipart/form-data">
+    <input type="text">
     <button type="submit">Submit</button>
   </form>
 </body>
