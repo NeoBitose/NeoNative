@@ -2,6 +2,9 @@
 
   $route = [];
 
+  $routes['GET']['/'] = 'WelcomeController@index';
+  
+
   # Example
   // $routes['GET']['/example'] = 'ExampleController@index';
   // $routes['GET']['/examplecreate'] = 'ExampleController@formcreate';

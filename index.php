@@ -1,2 +1,2 @@
 <?php 
-require 'first-view.php';
+require 'config/main.php';

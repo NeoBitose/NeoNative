@@ -12,7 +12,7 @@ $httpMethod = $_SERVER['REQUEST_METHOD'];
 $route = $_SERVER['REQUEST_URI'];
 
 // Basis URL
-$baseUrl = $app_name;
+$baseUrl = "/".$app_name;
 
 // Variabel untuk menyimpan parameter rute
 $params = [];
