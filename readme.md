@@ -1,7 +1,4 @@
 ## About NeoNative
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Selamat datang di template Native PHP saya, NeoNative yang dirancang khusus untuk mempermudah pengembangan aplikasi web Anda. Template ini hadir dengan kerangka kerja yang memastikan proyek Anda berjalan lancar dan efisien.
 
-## Learning NeoNative
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
