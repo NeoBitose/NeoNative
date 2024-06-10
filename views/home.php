@@ -27,9 +27,9 @@
         </a>
       </div>
       <div class="col-md-3 text-end text-decoration-none">
-        <a href="login" class="text-secondary">
+        <a href="logout" class="text-secondary">
           <i class="fa fa-right-to-bracket"></i>
-          Login
+          Logout
         </a>
       </div>
     </header>
@@ -37,14 +37,8 @@
   <main class="container d-flex justify-content-center align-items-center">
     <div class="px-md-5 py-md-5 my-md-5 px-1 py-1 my-4 text-center">
       <img class="mx-auto mb-4 img-fluid" src="public/img/NeoNative.svg" alt="">
-      <h1 class="display-6 display-md-5 text-body-emphasis">Native Template For PHP</h1>
+      <h1 class="display-6 display-md-5 text-body-emphasis mb-5">Anda Telah Login!</h1>
       <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4">
-          Selamat datang di template Native PHP saya, NeoNative yang dirancang khusus untuk mempermudah pengembangan
-          aplikasi web
-          Anda. Template ini hadir dengan kerangka kerja yang memastikan proyek Anda berjalan lancar dan
-          efisien.
-        </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-center">
           <a href="https://github.com/NeoBitose/Template-MVC">
             <button type="button" class="btn btn-secondary btn-lg px-4 gap-3 w-md-100">Download</button>
